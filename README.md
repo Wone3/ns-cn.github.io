@@ -1,2 +1,2 @@
-# ns-cn.github.io
-ns-cn.github.io
+# wrs-cn.github.io
+wrs-cn.github.io
